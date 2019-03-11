@@ -1,0 +1,14 @@
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson28\Lesson28\bin\Debug\Lesson28.exe.config
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson28\Lesson28\bin\Debug\Lesson28.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson28\Lesson28\bin\Debug\Lesson28.pdb
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson28\Lesson28\obj\Debug\Lesson28.csprojAssemblyReference.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson28\Lesson28\obj\Debug\Lesson28.csproj.CoreCompileInputs.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson28\Lesson28\obj\Debug\Lesson28.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson28\Lesson28\obj\Debug\Lesson28.pdb
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture28\Lesson28\bin\Debug\Lesson28.exe.config
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture28\Lesson28\bin\Debug\Lesson28.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture28\Lesson28\bin\Debug\Lesson28.pdb
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture28\Lesson28\obj\Debug\Lesson28.csprojAssemblyReference.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture28\Lesson28\obj\Debug\Lesson28.csproj.CoreCompileInputs.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture28\Lesson28\obj\Debug\Lesson28.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture28\Lesson28\obj\Debug\Lesson28.pdb
