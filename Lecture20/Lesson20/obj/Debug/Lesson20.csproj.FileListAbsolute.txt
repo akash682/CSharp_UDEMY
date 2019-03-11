@@ -1,0 +1,6 @@
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson20\Lesson20\bin\Debug\Lesson20.exe.config
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson20\Lesson20\bin\Debug\Lesson20.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson20\Lesson20\bin\Debug\Lesson20.pdb
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson20\Lesson20\obj\Debug\Lesson20.csproj.CoreCompileInputs.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson20\Lesson20\obj\Debug\Lesson20.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lesson20\Lesson20\obj\Debug\Lesson20.pdb
