@@ -1,0 +1,7 @@
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture56\Lecture56\obj\Debug\Lecture56.csprojAssemblyReference.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture56\Lecture56\obj\Debug\Lecture56.csproj.CoreCompileInputs.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture56\Lecture56\bin\Debug\Lecture56.exe.config
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture56\Lecture56\bin\Debug\Lecture56.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture56\Lecture56\bin\Debug\Lecture56.pdb
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture56\Lecture56\obj\Debug\Lecture56.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture56\Lecture56\obj\Debug\Lecture56.pdb

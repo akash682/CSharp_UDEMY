@@ -1,0 +1,6 @@
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture55\Lecture55\bin\Debug\Lecture55.exe.config
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture55\Lecture55\bin\Debug\Lecture55.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture55\Lecture55\bin\Debug\Lecture55.pdb
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture55\Lecture55\obj\Debug\Lecture55.csproj.CoreCompileInputs.cache
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture55\Lecture55\obj\Debug\Lecture55.exe
+C:\Users\Akash Lohani\Programming\C#\C#_UDEMY\Lecture55\Lecture55\obj\Debug\Lecture55.pdb
